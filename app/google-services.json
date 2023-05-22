@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497644923846",
+    "project_id": "treinos-b982a",
+    "storage_bucket": "treinos-b982a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497644923846:android:3305fd8fa511d92bb860c7",
+        "android_client_info": {
+          "package_name": "com.example.academiadoscampies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497644923846-gb6rpjdk3r3hujp4jehhrqvvik6uhc2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjTpFoW7B1D84MJw-aeJOnhBQ4jXojmxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497644923846-gb6rpjdk3r3hujp4jehhrqvvik6uhc2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
